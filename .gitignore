@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+model/*
+data_painted_kitti/
+data_painted_no_intensity_kitti/
+data_painted_no_intensity_vlp16/
+build/
