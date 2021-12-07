@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
-model/*
+*.onnx
+*.pth
+*.cache
 data_painted_kitti/
 data_painted_no_intensity_kitti/
 data_painted_no_intensity_vlp16/
